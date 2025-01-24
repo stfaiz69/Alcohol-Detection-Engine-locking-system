@@ -1,0 +1,4 @@
+The Alcohol Detection with Engine Locking system helps to reduce accidents  which are occurring due to drunk driving. MQ-3  sensor  detects  the  presence  of  alcohol  in  the surroundings. The sensor provides output on the basis of the concentration of the  alcohol, if  the alcohol concentration is higher the conductivity of MQ-3 sensor increases which in turn gives the reading to ARDUINO.  If the reading is greater than the threshold level, ARDUINO will stop the DC motor. The red LED will  also blink if the distance is less than the safe distance to give indication to other vehicles that the vehicle in front of them is unsafe. Now, with the help  of SIM900A the message  will be sent to the  civil forces that the particular vehicle is unsafe and can be a threat to other people 
+
+
+
